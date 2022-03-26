@@ -61,3 +61,9 @@ _single underscores_
 **double asterisks**
 __double underscores__
 ~~cancelLine~~
+
+이미지
+<img src="https://images.unsplash.com/photo-1648200561044-eb46f999cb49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+
+줄바꿈
+줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.   
